@@ -326,7 +326,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "您好，我是红旗速运智能助手，相关进出口邮寄的信息可以官网查询，[红旗速运](https://etkmo.com)，现已支持GPT4，大家可以选择不同模型使用。请问有什么可以帮到你的？",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
