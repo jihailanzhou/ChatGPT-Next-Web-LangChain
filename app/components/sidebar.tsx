@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           红旗速运
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          您身边最专业的进出口直邮平台（etkmo.com）.
+          [红旗速运,您身边最专业的进出口直邮平台](https://etkmo.com)。
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
