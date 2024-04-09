@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           红旗速运
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          <a href="https://etkmo.com/">红旗速运，您身边最专业的直邮进出口平台。</a>
+          <a href="https://etkmo.com/">红旗速运，您身边最专业的直邮进出口平台。</a> 遇到不能正常回复，请多试几次，内置多个api
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
