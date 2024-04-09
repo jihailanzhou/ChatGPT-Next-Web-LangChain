@@ -155,10 +155,10 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          红旗速运
+          <a href="https://etkmo.com/">红旗速运</a>
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          <a href="https://etkmo.com/">红旗速运，您身边最专业的直邮进出口平台。</a> 遇到不能正常回复，请多试几次，内置多个api
+          <a href="https://etkmo.com/">红旗速运，您身边最专业的直邮进出口平台。</a>  遇到不能正常回复，请多试几次，内置多个api
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
