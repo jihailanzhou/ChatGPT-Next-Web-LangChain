@@ -326,7 +326,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "您好，我是[红旗速运](https://etkmo.com)的智能助手，[1.202415.xyz](https://1.202415.xyz)支持多个智能模型，[2.202415.xyz](https://2.202415.xyz)和[3.202415.xyz](https://3.202415.xyz)支持多个模型和插件，[5.202415.xyz](https://5.202415.xyz)支持多模型，[6.202415.xyz](https://6.202415.xyz)为bing ai，大家可以进不同的网站使用。",
+    BotHello: "您好，我是[红旗速运](https://etkmo.com)的AI助手，[1.202415.xyz](https://1.202415.xyz)支持多个模型，[2.202415.xyz](https://2.202415.xyz)和[3.202415.xyz](https://3.202415.xyz)支持多个模型和插件，[5.202415.xyz](https://5.202415.xyz)支持多模型，大家可以进不同的网站使用，在切换模型的时候如果没有反应，可以创建新的聊天再试。推荐使用gpt4，bing-gpt4，core，command，llama3-70b，gemini1.5，搜索用meta。",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
